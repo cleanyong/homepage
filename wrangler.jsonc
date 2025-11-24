@@ -4,7 +4,7 @@
  */
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "homepage",
+	"name": "lucky-wildflower-e486",
 	"main": "src/index.ts",
 	"compatibility_date": "2025-11-21",
 	"compatibility_flags": [
